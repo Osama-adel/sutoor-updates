@@ -1,6 +1,6 @@
 {
-  "version": "9.10.0",
+  "version": "9.10.1",
   "url": "https://github.com/Osama-adel/sutoor-updates",
-  "notes": "First-run guided tour, step-by-step key setup, and the installer now removes old versions.",
-  "notes_ar": "جولة إرشادية أول مرة، وخطوات إضافة المفتاح، والمثبّت بقى بيمسح النسخ القديمة."
+  "notes": "Sutoor 9.10.1 is out. Download it from your purchase page.",
+  "notes_ar": "البلاجن بقى بيتابع التحديثات: لما تنزل نسخة جديدة هيظهر شريط فوق مكتوب فيه \"فيه نسخة جديدة\"، ومعاه زرار \"إيه الجديد\" وزرار \"تحميل\"."
 }

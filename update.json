@@ -1,6 +1,6 @@
 {
-  "version": "9.10.1",
-  "url": "https://github.com/Osama-adel/sutoor-updates",
-  "notes": "Sutoor 9.10.1 is out. Download it from your purchase page.",
-  "notes_ar": "البلاجن بقى بيتابع التحديثات: لما تنزل نسخة جديدة هيظهر شريط فوق مكتوب فيه \"فيه نسخة جديدة\"، ومعاه زرار \"إيه الجديد\" وزرار \"تحميل\"."
+  "version": "9.11.0",
+  "url": "https://artistryosama.gumroad.com/l/ggovn",
+  "notes": "Sutoor 9.11.0 is out. Download it from your purchase page.",
+  "notes_ar": "الترخيص اتفعّل: أول مرة تفتح البلاجن بيطلب مفتاح الترخيص اللي جالك من Gumroad. المفتاح الواحد بيشتغل على جهازين، وزرار \"اشتري\" بيفتح صفحة Sutoor على Gumroad. زرار \"تحميل\" في شريط التحديث بقى بيفتح صفحة المنتج على Gumroad."
 }
